@@ -1,5 +1,5 @@
 rolling
-throwplay
+throw
 study
 tackle
 work
