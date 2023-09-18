@@ -1,6 +1,3 @@
 rolling
 throw
 study
-tackle
-work
-pick
